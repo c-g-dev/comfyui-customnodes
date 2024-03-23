@@ -1,7 +1,7 @@
 # CGDev's custom nodes
 ComfyUI nodes I've had had to make because I couldn't find them elsewhere. A lot of these are forks of other people's custom nodes with extended functionality.
 
-Do NOt clone this into your customNodes repo, most of these will require manual injection.
+Do not clone this into your customNodes repo, most of these will require manual injection.
 
 ## Loop, LoopStart, LoopEnd
 
